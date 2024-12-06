@@ -3,6 +3,6 @@ This is webscraping tutorial
 Web scraping is the process of extracting data from websites.
 It involves using automated scripts or tools to gather information from web pages,
 typically for purposes like data analysis, market research, or content aggregation.
-Key Points About Web Scraping:
+
 
 
